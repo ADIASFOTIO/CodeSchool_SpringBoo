@@ -8,6 +8,7 @@ public class LegionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LegionApplication.class, args);
+		System.out.print("il programma è quasi pronto");
 	}
 
 }
